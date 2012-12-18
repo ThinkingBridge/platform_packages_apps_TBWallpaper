@@ -48,7 +48,7 @@
         <item>wallpaper_29</item>
         <item>wallpaper_30</item>
         <item>wallpaper_31</item>
-
+        <item>wallpaper_32</item>
 
     </string-array>
 
@@ -83,5 +83,6 @@
         <item>Nexus</item>
         <item>Cold Mountain</item>
         <item>Fabric Touch</item>
+        <item>Ink Spill</item>
     </string-array>
 </resources>
