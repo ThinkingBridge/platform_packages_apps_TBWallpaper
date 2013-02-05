@@ -35,6 +35,19 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item></item>
+        <item>Cold Evening</item>
+        <item>Our Night Under The Stars</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Wallpapers</item>
+        <item>Paris la Tour Eiffel</item>
+        <item>Lighthouse</item>
+        <item>Wallpapres</item>
+        <item>Water Lily</item>
+        <item>Urban Dream</item>
+        <item>Horseshoe Bend Sunset</item>
+        <item>Lake Tahoe Colors</item>
+        <item>Leaves</item>
     </string-array>
 </resources>
