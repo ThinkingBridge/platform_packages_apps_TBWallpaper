@@ -31,58 +31,10 @@
         <item>wallpaper_12</item>
         <item>wallpaper_13</item>
         <item>wallpaper_14</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_17</item>
-        <item>wallpaper_18</item>
-        <item>wallpaper_19</item>
-        <item>wallpaper_20</item>
-        <item>wallpaper_21</item>
-        <item>wallpaper_22</item>
-        <item>wallpaper_23</item>
-        <item>wallpaper_24</item>
-        <item>wallpaper_25</item>
-        <item>wallpaper_26</item>
-        <item>wallpaper_27</item>
-        <item>wallpaper_28</item>
-        <item>wallpaper_29</item>
-        <item>wallpaper_30</item>
-        <item>wallpaper_31</item>
-        <item>wallpaper_32</item>
 
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Wood</item>
-        <item>Poing</item>
-        <item>Cloud</item>
-        <item>Wallpaper</item>
-        <item>Maple Leafs</item>
-        <item>Desert</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>Mr.Green</item>
-        <item>Cloud2</item>
-        <item>Small Rock</item>
-        <item>Landscape</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>Canyon</item>
-        <item>Wallpaper</item>
-        <item>Ocean</item>
-        <item>Old Life</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>The Eiffel Tower</item>
-        <item>Wallpaper</item>
-        <item>Wallpaper</item>
-        <item>Log</item>
-        <item>Korea</item>
-        <item>Nexus</item>
-        <item>Cold Mountain</item>
-        <item>Fabric Touch</item>
-        <item>Ink Spill</item>
+        <item></item>
     </string-array>
 </resources>
