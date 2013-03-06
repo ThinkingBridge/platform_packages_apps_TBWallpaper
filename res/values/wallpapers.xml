@@ -24,6 +24,8 @@
         <item>wallpaper_5</item>
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
+        <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -34,5 +36,7 @@
         <item>GoldenBridge</item>
         <item>Green</item>
         <item>Beach</item>
+        <item>Ink Spill</item>
+        <item>Fabric Touch</item>
     </string-array>
 </resources>
