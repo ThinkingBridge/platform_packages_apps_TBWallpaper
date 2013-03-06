@@ -31,6 +31,8 @@
         <item>wallpapers_12</item>
         <item>wallpapers_13</item>
         <item>wallpapers_14</item>
+        <item>wallpapers_15</item>
+        <item>wallpapers_16</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -48,5 +50,7 @@
         <item>Horseshoe Bend Sunset</item>
         <item>Lake Tahoe Colors</item>
         <item>Leaves</item>
+        <item>Ink Spill</item>
+        <item>Fabric Touch</item>
     </string-array>
 </resources>
