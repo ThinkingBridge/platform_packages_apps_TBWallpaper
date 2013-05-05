@@ -26,7 +26,7 @@ public class SolidColor extends Activity {
     @Override
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
-        final CharSequence[] items = getResources().getStringArray(R.array.colors);
+        final CharSequence[] items = getResources().getStringArray(R.array.solid_colors);
         final Context mContext = this;
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
